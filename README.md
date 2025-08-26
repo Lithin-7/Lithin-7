@@ -18,12 +18,20 @@
 
 ---
 
-## 📂 Featured Projects  
+## Projects
 
-🔹 [HR Analytics Dashboard (Power BI)](https://github.com/Lithin-7/HR-analytics-PowerBI)  
-🔹 [Health Insurance Dashboard (Power BI)](https://github.com/Lithin-7/insurance-analytics-PowerBI)  
-🔹 [End-to-End ML Pipeline (PostgreSQL + MLflow + Airflow)](https://github.com/Lithin-7/end2end-salary-ml)  
-🔹 [Azure Data Factory - ETL Pipeline](https://github.com/Lithin-7/Adf_project)  
+- [HR Analytics Dashboard (Power BI)](https://github.com/Lithin-7/HR-analytics-PowerBI)  
+  Built an interactive dashboard analyzing employee turnover, performance, and demographics to support data-driven HR decision-making.
+
+- [Health Insurance Analytics (Power BI)](https://github.com/Lithin-7/insurance-analytics-PowerBI)  
+  Developed a dashboard to analyze premium trends, claims ratios, and customer demographics for business insights.
+
+- [End-to-End Machine Learning Pipeline (Minfy Internship)](https://github.com/Lithin-7/end2end-salary-ml)  
+  Designed and deployed a production-ready ML pipeline with PostgreSQL, MLflow, Evidently.ai, Flask, and AWS (Glue, Redshift, Airflow).
+
+- [Azure Data Factory – ETL Pipelines](https://github.com/Lithin-7/Adf_project)  
+  Implemented enterprise-grade ETL workflows using ADF for data ingestion, transformation, and orchestration across APIs, on-prem databases, and Azure SQL.
+
 
 ---
 
