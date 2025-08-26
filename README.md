@@ -38,7 +38,7 @@
 - [Health Insurance Analytics (Power BI)](https://github.com/Lithin-7/insurance-analytics-PowerBI)  
   Developed a dashboard to analyze premium trends, claims ratios, and customer demographics for business insights.
 
-- [End-to-End Machine Learning Pipeline (Minfy Internship)](https://github.com/Lithin-7/end2end-salary-ml)  
+- [End-to-End Machine Learning Pipeline](https://github.com/Lithin-7/end2end-salary-ml)  
   Designed and deployed a production-ready ML pipeline with PostgreSQL, MLflow, Evidently.ai, Flask, and AWS (Glue, Redshift, Airflow).
 
 - [Azure Data Factory – ETL Pipelines](https://github.com/Lithin-7/Adf_project)  
