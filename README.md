@@ -10,7 +10,6 @@
 ---
 
 ## 🛠️ Skills  
-
 - **Programming:** Python, SQL  
 - **Data & Analytics:** Power BI  
 - **Cloud & Big Data:** Azure Data Factory, AWS Glue, Redshift, Airflow, PostgreSQL  
