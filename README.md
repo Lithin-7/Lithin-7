@@ -58,4 +58,3 @@
 📧 **lithinvarma.s@gmail.com**  
 🌐 [**LinkedIn**](https://www.linkedin.com/in/lithinvarma)  
 📂 [**GitHub**](https://github.com/Lithin-7)  
-📞 **+91 7904205601**  
