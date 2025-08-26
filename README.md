@@ -22,8 +22,8 @@
 
 🔹 [HR Analytics Dashboard (Power BI)](https://github.com/Lithin-7/HR-analytics-PowerBI)  
 🔹 [Health Insurance Dashboard (Power BI)](https://github.com/Lithin-7/insurance-analytics-PowerBI)  
-🔹 [End-to-End ML Pipeline (PostgreSQL + MLflow + Airflow)](https://github.com/Lithin-7/End-to-End-ML-Pipeline)  
-🔹 [Azure Data Factory - ETL Pipeline](https://github.com/Lithin-7/Azure-Data-Engineering)  
+🔹 [End-to-End ML Pipeline (PostgreSQL + MLflow + Airflow)](https://github.com/Lithin-7/end2end-salary-ml)  
+🔹 [Azure Data Factory - ETL Pipeline](https://github.com/Lithin-7/Adf_project)  
 
 ---
 
