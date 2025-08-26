@@ -18,6 +18,18 @@
 
 ---
 
+## 💼 Experience
+
+- **Power BI Intern – Indium Software (Data & AI Division)**  
+  - Designed and developed dashboards for **HR analytics**, focusing on employee turnover and performance. [View Project]()  
+  - Created a **Health Insurance Dashboard** analyzing premium trends, claims ratio, and demographics. [View Project]()  
+  - Gained proficiency in **Power BI**, data transformation, and visualization techniques.  
+
+- **Data & ML Intern – Minfy Technologies**  
+  - Built an **end-to-end ML pipeline**: PostgreSQL ingestion, EDA, preprocessing, model training, and tuning.  
+  - Integrated **MLflow** for experiment tracking and **Evidently.ai** for drift monitoring.  
+  - Deployed the model with **Flask**; orchestrated data using **AWS Glue, Redshift, and Airflow**.  
+
 ## Projects
 
 - [HR Analytics Dashboard (Power BI)](https://github.com/Lithin-7/HR-analytics-PowerBI)  
